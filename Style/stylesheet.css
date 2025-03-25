@@ -1,0 +1,45 @@
+body {
+    background-color: #f2f7f5; /* soft greenish-white */
+    color: #2b2d42; /* deep navy */
+    width: 100%;
+  }
+  
+  img {
+    max-width: 200px;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    border: 2px solid #4a4e69; /* dusty purple */
+    padding: 5px;
+  }
+  
+  thead {
+    background-color: #d8e2dc; /* muted pastel gray-green */
+  }
+  
+  #container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+  
+  .info {
+    background-color: #caffbf; /* soft lime green */
+  }
+  
