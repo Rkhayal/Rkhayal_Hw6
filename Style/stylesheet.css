@@ -1,11 +1,12 @@
 body {
-    background-color: #f2f7f5; /* soft greenish-white */
-    color: #2b2d42; /* deep navy */
+    background-color: #bfefff; /* light blue */
+    color: #36454F; /* charcoal gray */
     width: 100%;
   }
   
   img {
     max-width: 200px;
+    height: auto; /* fixed incorrect property */
   }
   
   table {
@@ -14,12 +15,12 @@ body {
   
   th,
   td {
-    border: 2px solid #4a4e69; /* dusty purple */
+    border: 2px solid black; /* kept one border value */
     padding: 5px;
   }
   
   thead {
-    background-color: #d8e2dc; /* muted pastel gray-green */
+    background-color: lightgray; /* kept one value */
   }
   
   #container {
@@ -40,6 +41,6 @@ body {
   }
   
   .info {
-    background-color: #caffbf; /* soft lime green */
+    background-color: lightblue; /* kept one value */
   }
   
